@@ -1,2 +1,3 @@
 # gitdemo-repo
-This is demo repository
+This is a demo repository.
+Author - AMT

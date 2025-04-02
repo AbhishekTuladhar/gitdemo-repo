@@ -1,4 +1,4 @@
 # gitdemo-repo
 This is a demo repository.
 <br>
-Author - AMT
+Author - A M T
